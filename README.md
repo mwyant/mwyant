@@ -40,7 +40,7 @@ I’m also an **author of character-driven science fiction**. I write about comp
 **Europa Neo**  
 Contributing to the modern web rebuild of a real-time nanobot strategy game set on Jupiter’s icy moon.
 
-[Explore the project](https://github.com/shaunburdick/europa-neo) · [My fork](https://github.com/mwyant/europa-neo)
+[Explore the project](https://github.com/shaunburdick/europa-neo)
 
 **Websites & Cloud Run**  
 Building the web homes for my consulting, nonprofit, and publishing work.
