@@ -1,18 +1,19 @@
+<h1 align="center"><img width="75" height="75" alt="Falstar" src="https://github.com/user-attachments/assets/dd973fa8-3d05-482b-804c-f3e7b6bfc57b" /></h1>
 <h1 align="center">Mike Wyant Jr.</h1>
 
 <p align="center"><em>People-first technology. Materials with another life. Science fiction that isn’t afraid to hope.</em></p>
 
 <p align="center">
   <a href="https://falstaraether.com">Falstar Aether</a>
-  &nbsp; ✦ &nbsp;
+  &nbsp; <img width="15" height="15" alt="Falstar" src="https://github.com/user-attachments/assets/dd973fa8-3d05-482b-804c-f3e7b6bfc57b" /> &nbsp;
   <a href="https://integratedmaterialsreuse.org/">Integrated Materials Reuse</a>
-  &nbsp; ✦ &nbsp;
+  &nbsp; <img width="15" height="15" alt="Falstar" src="https://github.com/user-attachments/assets/dd973fa8-3d05-482b-804c-f3e7b6bfc57b" /> &nbsp;
   <a href="https://mikewyantjr.com/">Books & Writing</a>
 </p>
 
 ---
 
-## ✦ A few things I care about
+## <img width="15" height="15" alt="Falstar" src="https://github.com/user-attachments/assets/dd973fa8-3d05-482b-804c-f3e7b6bfc57b" /> A few things I care about
 
 ### Tools that make room for people
 
@@ -34,7 +35,7 @@ I’m also an **author of character-driven science fiction**. I write about comp
 
 ---
 
-## ✦ On GitHub lately
+## <img width="15" height="15" alt="Falstar" src="https://github.com/user-attachments/assets/dd973fa8-3d05-482b-804c-f3e7b6bfc57b" /> On GitHub lately
 
 **Europa Neo**  
 Contributing to the modern web rebuild of a real-time nanobot strategy game set on Jupiter’s icy moon.
